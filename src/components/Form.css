@@ -1,0 +1,12 @@
+form{
+    height: 500px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form input{
+    padding: 10px;
+    margin: 5px;
+}
